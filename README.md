@@ -2,9 +2,9 @@
 Informatics Practices project on BookMyShow in Java|Netbeans.
 
 #Getting Started
-To use this project, try one of the following:
-   <br/> * Download the latest release on [Github Page](https://github.com/AkashVevo/bookmyshow-java/)
-   <br/> * Fork this repository on GitHub
+To use this theme, choose one of the following options to get started:
+* Download the latest release on Jumpstart Studios Page
+* Fork this repository on GitHub
 
 #Loading The Project
 After downloading follow the steps to use the project:
