@@ -8,7 +8,7 @@ To use the project try one of the following:
 
 #Creator
 *The project was created to help students with their work.*
-You can join me on:<br/>[Twitter](http://twitter.com/alkashsaha04)
+<br/>Join me on [Twitter](http://twitter.com/alkashsaha04)
      
 #Copyright and License
 This project doesn't have any  copyrights or license. Everyone has full authority to distribute the project.
