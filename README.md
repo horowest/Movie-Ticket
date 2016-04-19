@@ -14,7 +14,7 @@ After downloading follow the steps to use the project:
 * Import the unziped files
 * And you're good to go!
 <br/><br/>
- Having some trouble? Make sure you cantact me!
+Having some trouble? Make sure you cantact me!
 
 #Creator
 *The project was created to help students with their work.*
