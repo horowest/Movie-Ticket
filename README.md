@@ -13,7 +13,9 @@ After downloading follow the steps to use the project:
 * Go to open project option
 * Import the unziped files
 * And you're good to go!
-<br/><br/>Having some trouble? Make sure you cantact me!
+
+#Bugs and Issues
+Having some trouble? Make sure you contact me!
 
 #Creator
 *The project was created to help students with their work.*
