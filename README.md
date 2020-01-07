@@ -1,5 +1,5 @@
-# bookmyshow-java
-Informatics Practices project on BookMyShow in Java|Netbeans.
+# Movie Ticket Booking System
+School project on Java|Netbeans.
 
 #Getting Started
 To use this project, choose one of the following options to get started:
